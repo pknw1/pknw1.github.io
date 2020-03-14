@@ -742,3 +742,35 @@ section.lazy-placeholder:after {
   padding: 1rem 2rem;
   font-weight: 300;
 }
+.cid-rTbEvu74gt {
+  background-color: #101010;
+}
+.cid-rTbEvu74gt .wrapper {
+  width: 90%;
+}
+@media (max-width: 992px) {
+  .cid-rTbEvu74gt .wrapper {
+    width: 100% !important;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rTbEvu74gt .btn {
+    margin-left: 0 !important;
+  }
+}
+.cid-rTbEvu74gt .mbr-fonts-style {
+  font-weight: 300;
+}
+.cid-rTbEvu74gt .mbr-arrow {
+  background-color: transparent !important;
+}
+.cid-rTbEvu74gt .fa {
+  position: absolute;
+  left: 23px !important;
+  top: 8px !important;
+  font-size: 18px;
+}
+.cid-rTbEvu74gt .btn {
+  padding: 1rem 2rem;
+  font-weight: 300;
+}
